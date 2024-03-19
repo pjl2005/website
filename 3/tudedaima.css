@@ -1,0 +1,11 @@
+div
+{
+   background:radial-gradient(cyan 10%, transparent 30%, salmon 50%);
+   background-repeat:repeat;
+   border-radius:200px;
+   -webkit-border-radius:200px;
+   -moz-border-radius:200px;
+   color:green;
+   height:350px;
+   width:350px;
+}
